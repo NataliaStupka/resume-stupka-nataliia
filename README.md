@@ -16,10 +16,10 @@ React • React Router • Redux Toolkit • Redux-Persist • Node.js • Expre
 
 ## Projects
 
-- [Tire-store (in progress)](<[link-to-repo](https://github.com/NataliaStupka/tire-store-client)>) – Online tire store platform with filtering, favorites, and admin panel
-- [Rental-car](<[link-to-repo](https://github.com/NataliaStupka/car-rental)>) – Online car rental service with filtering and booking
-- [Phone Book](<[link-to-repo](https://github.com/NataliaStupka/Phone-Book)>) – Contacts manager with authentication and Swagger API
-- [Film Finder](<[link-to-repo](https://github.com/NataliaStupka/goit-react-hw-05)>) – Movie search app with popular and detailed view pages
+- [Tire-store (in progress)](https://github.com/NataliaStupka/tire-store-client) – Online tire store platform with filtering, favorites, and admin panel
+- [Rental-car](https://github.com/NataliaStupka/car-rental) – Online car rental service with filtering and booking
+- [Phone Book](https://github.com/NataliaStupka/Phone-Book) – Contacts manager with authentication and Swagger API
+- [Film Finder](https://github.com/NataliaStupka/goit-react-hw-05) – Movie search app with popular and detailed view pages
 
 ---
 
